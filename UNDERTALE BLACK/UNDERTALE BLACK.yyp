@@ -10,9 +10,10 @@
   },
   "defaultScriptType":0,
   "Folders":[
-    {"$GMFolder":"","%Name":"tilesets","folderPath":"folders/tilesets.yy","name":"tilesets","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"sequences","folderPath":"folders/sequences.yy","name":"sequences","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"tilesets","folderPath":"folders/tilesets.yy","name":"tilesets","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -23,12 +24,17 @@
   },
   "name":"UNDERTALE BLACK",
   "resources":[
-    {"id":{"name":"test","path":"rooms/test/test.yy",},},
+    {"id":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
+    {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},},
+    {"id":{"name":"spr_seq_fundo","path":"sprites/spr_seq_fundo/spr_seq_fundo.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"test","path":"rooms/test/test.yy",},},
+    {"roomId":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
