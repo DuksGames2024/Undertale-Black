@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Sound1",
+  "%Name":"intro",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":88.97887,
   "exportDir":"",
-  "name":"Sound1",
+  "name":"intro",
   "parent":{
     "name":"musics",
     "path":"folders/musics.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Sound1.mp3",
+  "soundFile":"intro.mp3",
   "volume":1.0,
 }
