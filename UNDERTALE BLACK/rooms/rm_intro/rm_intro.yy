@@ -24,8 +24,8 @@
   ],
   "name":"rm_intro",
   "parent":{
-    "name":"UNDERTALE BLACK",
-    "path":"UNDERTALE BLACK.yyp",
+    "name":"rooms",
+    "path":"folders/rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

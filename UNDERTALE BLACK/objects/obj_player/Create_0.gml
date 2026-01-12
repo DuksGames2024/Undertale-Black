@@ -1,0 +1,11 @@
+//variaveis
+
+xspeed = 0
+
+yspeed = 0
+
+movespeed = 2
+
+walkspeed = 2.4
+
+runspeed = 4.6
