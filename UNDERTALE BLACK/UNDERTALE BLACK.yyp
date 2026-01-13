@@ -39,6 +39,7 @@
     {"id":{"name":"obj_skipintro","path":"objects/obj_skipintro/obj_skipintro.yy",},},
     {"id":{"name":"obj_warp","path":"objects/obj_warp/obj_warp.yy",},},
     {"id":{"name":"rm_comeco","path":"rooms/rm_comeco/rm_comeco.yy",},},
+    {"id":{"name":"rm_floweyroom","path":"rooms/rm_floweyroom/rm_floweyroom.yy",},},
     {"id":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"undertaleblack","path":"rooms/undertaleblack/undertaleblack.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"Sound2","path":"sounds/Sound2/Sound2.yy",},},
     {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},},
     {"id":{"name":"spr_fade","path":"sprites/spr_fade/spr_fade.yy",},},
+    {"id":{"name":"spr_floweyroom","path":"sprites/spr_floweyroom/spr_floweyroom.yy",},},
     {"id":{"name":"spr_semnomed","path":"sprites/spr_semnomed/spr_semnomed.yy",},},
     {"id":{"name":"spr_semnomel","path":"sprites/spr_semnomel/spr_semnomel.yy",},},
     {"id":{"name":"spr_semnomer","path":"sprites/spr_semnomer/spr_semnomer.yy",},},
@@ -78,6 +80,7 @@
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"undertaleblack","path":"rooms/undertaleblack/undertaleblack.yy",},},
     {"roomId":{"name":"rm_comeco","path":"rooms/rm_comeco/rm_comeco.yy",},},
+    {"roomId":{"name":"rm_floweyroom","path":"rooms/rm_floweyroom/rm_floweyroom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
