@@ -1,4 +1,4 @@
-// CONTROLES
+ // CONTROLES
 var up_key    = keyboard_check(vk_up);
 var down_key  = keyboard_check(vk_down);
 var left_key  = keyboard_check(vk_left);
@@ -14,6 +14,19 @@ if (keyboard_check(vk_shift) || keyboard_check(ord("X"))) {
 // MOVIMENTO
 xspeed = (right_key - left_key) * movespeed;
 yspeed = (down_key - up_key) * movespeed;
+
+
+// colisão eixo X
+if (place_meeting(x + xspeed, y, obj_collider)) {
+    xspeed = 0;
+}
+
+// colisão eixo Y
+if (place_meeting(x, y + yspeed, obj_collider)) {
+    yspeed = 0;
+}
+
+
 
 x += xspeed;
 y += yspeed;

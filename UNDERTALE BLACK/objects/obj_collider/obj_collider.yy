@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_collider",
+  "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"obj_collider",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -31,12 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_semnomed",
-    "path":"sprites/spr_semnomed/spr_semnomed.yy",
+    "name":"spr_collision",
+    "path":"sprites/spr_collision/spr_collision.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_semnomed",
-    "path":"sprites/spr_semnomed/spr_semnomed.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
