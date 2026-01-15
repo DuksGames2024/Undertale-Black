@@ -1,4 +1,5 @@
 draw_self();
+draw_set_font(Font3);
 
 if (fade_alpha > 0) {
     draw_set_alpha(fade_alpha);
